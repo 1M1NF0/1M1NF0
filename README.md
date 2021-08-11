@@ -1,37 +1,171 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/1M1NF0/1M1NF0/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## CTF的由来
+CTF起源于1996年DEFCON全球黑客大会，以代替之前黑客们通过互相发起真实攻击进行技术比拼的方式。 发展至今，已经成为全球范围网络安全圈流行的竞赛形式，2013年全球举办了超过五十场国际性CTF赛事。
 
-### Markdown
+### CTF 的起源 
+CTF 的前身是传统黑客之间的网络技术比拼游戏，起源于 1996 年第四届 DEFCON。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 早期 CTF 竞赛 ¶
+第一个 CTF 比赛（1996 年 - 2001 年），没有明确的比赛规则，没有专业搭建的比赛平台与环境。由参数队伍各自准备比赛目标（自行准备与防守比赛目标，并要尝试攻破对方的比赛目标）。而组织者大都只是一些非专业的志愿者，接受参赛队伍手工计分的请求。
 
-```markdown
-Syntax highlighted code block
+没有后台自动系统支持和裁判技术能力认定，计分延迟和误差以及不可靠的网络和不当的配置，导致比赛带来了极大的争论与不满。
 
-# Header 1
-## Header 2
-### Header 3
+### 「现代」CTF 竞赛 ¶
+由专业队伍承担比赛平台、命题、赛事组织以及自动化积分系统。参赛队伍需提交参赛申请，由 DEFCON 会议组织者们进行评选。
 
-- Bulleted
-- List
+就 LegitBS 组织的三年 DEFCON CTF 比赛而言，有以下突出特点：
 
-1. Numbered
-2. List
+比赛侧重于对计算机底层和系统安全的核心能力，Web 漏洞攻防技巧完全被忽略。
+竞赛环境趋向多 CPU 指令架构集，多操作系统，多编程语言。
+采用「零和」计分规则。
+团队综合能力考验：逆向分析、漏洞挖掘、漏洞利用、漏洞修补加固、网络流量分析、系统安全运行维护以及安全方面的编程调试。
 
-**Bold** and _Italic_ and `Code` text
+> 内容摘自https://ctf-wiki.org/introduction/history/
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+.
+.
+.
 
-### Jekyll Themes
+.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1M1NF0/1M1NF0/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+.
+.
+.
 
-### Support or Contact
+.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+.
+.
+
+.
+.
+
+.
+.
+
+
+
+.
+.
+.
+
+
+.
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+
+.
+.
+.
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***NYSEC{Welcom_to_GEEK's_World}***
